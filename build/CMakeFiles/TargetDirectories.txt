@@ -1,3 +1,0 @@
-/home/zazzu/learning/opengl_youtube/build/CMakeFiles/opengl_app.dir
-/home/zazzu/learning/opengl_youtube/build/CMakeFiles/edit_cache.dir
-/home/zazzu/learning/opengl_youtube/build/CMakeFiles/rebuild_cache.dir
